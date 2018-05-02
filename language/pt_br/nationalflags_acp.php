@@ -6,7 +6,7 @@
 * @package - National Flags language
 * @copyright (c) RMcGirr83
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.4] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.6] (https://github.com/phpBBTraducoes)
 */
 
 if (!defined('IN_PHPBB'))
@@ -64,6 +64,11 @@ $lang = array_merge($lang, array(
 	'FLAGS_NUM_DISPLAY_EXPLAIN'			=> 'O número de bandeiras a serem exibidas na página de índice do fórum',
 	'FLAGS_ON_INDEX'					=> 'Exibir no índice',
 	'FLAGS_ON_INDEX_EXPLAIN'			=> 'Exibir um resumo dos usuários da bandeira na página de índice',
+	'FLAGS_DISPLAY_OPTIONS'				=> 'Opções de exibição',
+	'FLAGS_DISPLAY_VIEWFORUM'			=> 'Exibir bandeiras ao visualizar tópicos em fóruns',
+	'FLAGS_DISPLAY_FORUMROW'			=> 'Exibir bandeiras nas visualizações de índice e fórum',
+	'FLAGS_DISPLAY_SEARCH'				=> 'Exibir bandeiras dentro da pesquisa de posts',
+	'FLAGS_DISPLAY_MEMBERLIST'			=> 'Exibir bandeiras dentro do memberlist',
 	'FLAGS_DISPLAY_TO_GUESTS'			=> 'Exibir bandeiras para visitantes',
 	'FLAGS_DISPLAY_TO_GUESTS_EXPLAIN'	=> 'Escolhendo sim aqui exibirá as bandeiras para visitantes e bots',
 
