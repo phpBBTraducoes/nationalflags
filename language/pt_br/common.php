@@ -39,7 +39,7 @@ $lang = array_merge($lang, array(
 		2 => '%s bandeiras',
 	),
 	'USER_FLAG'			=> 'Bandeira',
-	'USER_FLAG_EXPLAIN'	=> 'A bandeira padrao do bordo esta sendo exibida .',
+	'USER_FLAG_EXPLAIN'	=> 'A bandeira padrao do forum esta sendo exibida .',
 	'NATIONAL_FLAGS'	=> 'Bandeiras',
 	'FLAG_EXPLAIN'		=> 'Escolha sua bandeira',
 	'USER_NEEDS_FLAG'	=> 'Por favor, tome um momento e %svisite seu perfil%s para escolher uma bandeira.',
